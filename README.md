@@ -25,9 +25,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-```md
-![Horiseon screenshot](assets/images/horiseon_screenshot.PNG)
-```
+![Horiseon screenshot](./assets/images/horiseon_screenshot.PNG)
+
 
 
 ## Credits
