@@ -20,7 +20,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation
 
 ```md
-![horiseon splash page]()
+![horiseon splash page](https://crowtrooper202.github.io/horiseon-accessibility-recode/)
 ```
 
 ## Usage
