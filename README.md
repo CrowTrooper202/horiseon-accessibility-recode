@@ -19,11 +19,16 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-N/A
+```md
+![horiseon splash page]()
+```
 
 ## Usage
 
-N/A
+```md
+![screen shot of page](assets/images/horiseon_screenshot.PNG)
+```
+
 
 ## Credits
 
