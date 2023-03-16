@@ -8,9 +8,7 @@
 - I also noticed that the clients name waw left out of the title, and that the images didn't have alternative descriptions.
 - through this iI learned how to quickly identify css selectors and their corisponding element even when generic dev elements are the primary element.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -24,6 +22,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 
 ## Usage
+
+the page uses links at the top pf the page for easy navigation.
 
 ![Horiseon screenshot](./assets/images/horiseon_screenshot.PNG)
 
